@@ -89,7 +89,8 @@ kubectl delete -f service.yaml
 
 
 ```markdown
-![image](https://github.com/user-attachments/assets/0665f1a1-d13e-4c04-8d7a-a1b51ac48e3e)
+![image](https://github.com/user-attachments/assets/1b1e975e-611d-4145-9cda-7ba66c03818a)
+
 
 
 ```
